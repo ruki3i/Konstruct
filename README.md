@@ -20,7 +20,7 @@
 ### Installation
 
 ```lua
-local Konstruct = loadstring(game:HttpGet("YOUR_RAW_URL_HERE"))()
+local Konstruct = loadstring(game:HttpGet("https://raw.githubusercontent.com/ruki3i/Konstruct/refs/heads/main/KonstructMain"))()
 ```
 
 ### Example
